@@ -2,8 +2,6 @@
 
 A social media platform with photos/posts sharing features
 
-▶️ https://mealpal.netlify.app/
-
 ## Code
 https://github.com/thaotpphung/postify-ui
 
